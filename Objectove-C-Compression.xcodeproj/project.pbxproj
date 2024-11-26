@@ -1,0 +1,544 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 77;
+	objects = {
+
+/* Begin PBXContainerItemProxy section */
+		D6BA45AB2CF5B95F0038B9EE /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = D6BA458D2CF5B95D0038B9EE /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = D6BA45942CF5B95D0038B9EE;
+			remoteInfo = "Objectove-C-Compression";
+		};
+		D6BA45B52CF5B95F0038B9EE /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = D6BA458D2CF5B95D0038B9EE /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = D6BA45942CF5B95D0038B9EE;
+			remoteInfo = "Objectove-C-Compression";
+		};
+/* End PBXContainerItemProxy section */
+
+/* Begin PBXFileReference section */
+		D6BA45952CF5B95D0038B9EE /* Objectove-C-Compression.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Objectove-C-Compression.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		D6BA45AA2CF5B95F0038B9EE /* Objectove-C-CompressionTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Objectove-C-CompressionTests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
+		D6BA45B42CF5B95F0038B9EE /* Objectove-C-CompressionUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Objectove-C-CompressionUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
+/* End PBXFileReference section */
+
+/* Begin PBXFileSystemSynchronizedRootGroup section */
+		D6BA45972CF5B95D0038B9EE /* Objectove-C-Compression */ = {
+			isa = PBXFileSystemSynchronizedRootGroup;
+			path = "Objectove-C-Compression";
+			sourceTree = "<group>";
+		};
+		D6BA45AD2CF5B95F0038B9EE /* Objectove-C-CompressionTests */ = {
+			isa = PBXFileSystemSynchronizedRootGroup;
+			path = "Objectove-C-CompressionTests";
+			sourceTree = "<group>";
+		};
+		D6BA45B72CF5B95F0038B9EE /* Objectove-C-CompressionUITests */ = {
+			isa = PBXFileSystemSynchronizedRootGroup;
+			path = "Objectove-C-CompressionUITests";
+			sourceTree = "<group>";
+		};
+/* End PBXFileSystemSynchronizedRootGroup section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		D6BA45922CF5B95D0038B9EE /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		D6BA45A72CF5B95F0038B9EE /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		D6BA45B12CF5B95F0038B9EE /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		D6BA458C2CF5B95D0038B9EE = {
+			isa = PBXGroup;
+			children = (
+				D6BA45972CF5B95D0038B9EE /* Objectove-C-Compression */,
+				D6BA45AD2CF5B95F0038B9EE /* Objectove-C-CompressionTests */,
+				D6BA45B72CF5B95F0038B9EE /* Objectove-C-CompressionUITests */,
+				D6BA45962CF5B95D0038B9EE /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		D6BA45962CF5B95D0038B9EE /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				D6BA45952CF5B95D0038B9EE /* Objectove-C-Compression.app */,
+				D6BA45AA2CF5B95F0038B9EE /* Objectove-C-CompressionTests.xctest */,
+				D6BA45B42CF5B95F0038B9EE /* Objectove-C-CompressionUITests.xctest */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		D6BA45942CF5B95D0038B9EE /* Objectove-C-Compression */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = D6BA45BE2CF5B95F0038B9EE /* Build configuration list for PBXNativeTarget "Objectove-C-Compression" */;
+			buildPhases = (
+				D6BA45912CF5B95D0038B9EE /* Sources */,
+				D6BA45922CF5B95D0038B9EE /* Frameworks */,
+				D6BA45932CF5B95D0038B9EE /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			fileSystemSynchronizedGroups = (
+				D6BA45972CF5B95D0038B9EE /* Objectove-C-Compression */,
+			);
+			name = "Objectove-C-Compression";
+			packageProductDependencies = (
+			);
+			productName = "Objectove-C-Compression";
+			productReference = D6BA45952CF5B95D0038B9EE /* Objectove-C-Compression.app */;
+			productType = "com.apple.product-type.application";
+		};
+		D6BA45A92CF5B95F0038B9EE /* Objectove-C-CompressionTests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = D6BA45C12CF5B95F0038B9EE /* Build configuration list for PBXNativeTarget "Objectove-C-CompressionTests" */;
+			buildPhases = (
+				D6BA45A62CF5B95F0038B9EE /* Sources */,
+				D6BA45A72CF5B95F0038B9EE /* Frameworks */,
+				D6BA45A82CF5B95F0038B9EE /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				D6BA45AC2CF5B95F0038B9EE /* PBXTargetDependency */,
+			);
+			fileSystemSynchronizedGroups = (
+				D6BA45AD2CF5B95F0038B9EE /* Objectove-C-CompressionTests */,
+			);
+			name = "Objectove-C-CompressionTests";
+			packageProductDependencies = (
+			);
+			productName = "Objectove-C-CompressionTests";
+			productReference = D6BA45AA2CF5B95F0038B9EE /* Objectove-C-CompressionTests.xctest */;
+			productType = "com.apple.product-type.bundle.unit-test";
+		};
+		D6BA45B32CF5B95F0038B9EE /* Objectove-C-CompressionUITests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = D6BA45C42CF5B95F0038B9EE /* Build configuration list for PBXNativeTarget "Objectove-C-CompressionUITests" */;
+			buildPhases = (
+				D6BA45B02CF5B95F0038B9EE /* Sources */,
+				D6BA45B12CF5B95F0038B9EE /* Frameworks */,
+				D6BA45B22CF5B95F0038B9EE /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				D6BA45B62CF5B95F0038B9EE /* PBXTargetDependency */,
+			);
+			fileSystemSynchronizedGroups = (
+				D6BA45B72CF5B95F0038B9EE /* Objectove-C-CompressionUITests */,
+			);
+			name = "Objectove-C-CompressionUITests";
+			packageProductDependencies = (
+			);
+			productName = "Objectove-C-CompressionUITests";
+			productReference = D6BA45B42CF5B95F0038B9EE /* Objectove-C-CompressionUITests.xctest */;
+			productType = "com.apple.product-type.bundle.ui-testing";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		D6BA458D2CF5B95D0038B9EE /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				BuildIndependentTargetsInParallel = 1;
+				LastUpgradeCheck = 1610;
+				TargetAttributes = {
+					D6BA45942CF5B95D0038B9EE = {
+						CreatedOnToolsVersion = 16.1;
+					};
+					D6BA45A92CF5B95F0038B9EE = {
+						CreatedOnToolsVersion = 16.1;
+						TestTargetID = D6BA45942CF5B95D0038B9EE;
+					};
+					D6BA45B32CF5B95F0038B9EE = {
+						CreatedOnToolsVersion = 16.1;
+						TestTargetID = D6BA45942CF5B95D0038B9EE;
+					};
+				};
+			};
+			buildConfigurationList = D6BA45902CF5B95D0038B9EE /* Build configuration list for PBXProject "Objectove-C-Compression" */;
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = D6BA458C2CF5B95D0038B9EE;
+			minimizedProjectReferenceProxies = 1;
+			preferredProjectObjectVersion = 77;
+			productRefGroup = D6BA45962CF5B95D0038B9EE /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				D6BA45942CF5B95D0038B9EE /* Objectove-C-Compression */,
+				D6BA45A92CF5B95F0038B9EE /* Objectove-C-CompressionTests */,
+				D6BA45B32CF5B95F0038B9EE /* Objectove-C-CompressionUITests */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		D6BA45932CF5B95D0038B9EE /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		D6BA45A82CF5B95F0038B9EE /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		D6BA45B22CF5B95F0038B9EE /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		D6BA45912CF5B95D0038B9EE /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		D6BA45A62CF5B95F0038B9EE /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		D6BA45B02CF5B95F0038B9EE /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXTargetDependency section */
+		D6BA45AC2CF5B95F0038B9EE /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = D6BA45942CF5B95D0038B9EE /* Objectove-C-Compression */;
+			targetProxy = D6BA45AB2CF5B95F0038B9EE /* PBXContainerItemProxy */;
+		};
+		D6BA45B62CF5B95F0038B9EE /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = D6BA45942CF5B95D0038B9EE /* Objectove-C-Compression */;
+			targetProxy = D6BA45B52CF5B95F0038B9EE /* PBXContainerItemProxy */;
+		};
+/* End PBXTargetDependency section */
+
+/* Begin XCBuildConfiguration section */
+		D6BA45BC2CF5B95F0038B9EE /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ASSETCATALOG_COMPILER_GENERATE_SWIFT_ASSET_SYMBOL_EXTENSIONS = YES;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++20";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				ENABLE_USER_SCRIPT_SANDBOXING = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu17;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				LOCALIZATION_PREFERS_STRING_CATALOGS = YES;
+				MACOSX_DEPLOYMENT_TARGET = 15.1;
+				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
+				MTL_FAST_MATH = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = macosx;
+			};
+			name = Debug;
+		};
+		D6BA45BD2CF5B95F0038B9EE /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ASSETCATALOG_COMPILER_GENERATE_SWIFT_ASSET_SYMBOL_EXTENSIONS = YES;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++20";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_USER_SCRIPT_SANDBOXING = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu17;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				LOCALIZATION_PREFERS_STRING_CATALOGS = YES;
+				MACOSX_DEPLOYMENT_TARGET = 15.1;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				MTL_FAST_MATH = YES;
+				SDKROOT = macosx;
+			};
+			name = Release;
+		};
+		D6BA45BF2CF5B95F0038B9EE /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_ENTITLEMENTS = "Objectove-C-Compression/Objectove_C_Compression.entitlements";
+				CODE_SIGN_STYLE = Automatic;
+				COMBINE_HIDPI_IMAGES = YES;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = K6LJCT8RAA;
+				ENABLE_HARDENED_RUNTIME = YES;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_KEY_NSHumanReadableCopyright = "";
+				INFOPLIST_KEY_NSMainStoryboardFile = Main;
+				INFOPLIST_KEY_NSPrincipalClass = NSApplication;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/../Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "com.template.Objectove-C-Compression";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = YES;
+			};
+			name = Debug;
+		};
+		D6BA45C02CF5B95F0038B9EE /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_ENTITLEMENTS = "Objectove-C-Compression/Objectove_C_Compression.entitlements";
+				CODE_SIGN_STYLE = Automatic;
+				COMBINE_HIDPI_IMAGES = YES;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = K6LJCT8RAA;
+				ENABLE_HARDENED_RUNTIME = YES;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_KEY_NSHumanReadableCopyright = "";
+				INFOPLIST_KEY_NSMainStoryboardFile = Main;
+				INFOPLIST_KEY_NSPrincipalClass = NSApplication;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/../Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "com.template.Objectove-C-Compression";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = YES;
+			};
+			name = Release;
+		};
+		D6BA45C22CF5B95F0038B9EE /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = K6LJCT8RAA;
+				GENERATE_INFOPLIST_FILE = YES;
+				MACOSX_DEPLOYMENT_TARGET = 15.1;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "com.template.Objectove-C-CompressionTests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/Objectove-C-Compression.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/Objectove-C-Compression";
+			};
+			name = Debug;
+		};
+		D6BA45C32CF5B95F0038B9EE /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = K6LJCT8RAA;
+				GENERATE_INFOPLIST_FILE = YES;
+				MACOSX_DEPLOYMENT_TARGET = 15.1;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "com.template.Objectove-C-CompressionTests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/Objectove-C-Compression.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/Objectove-C-Compression";
+			};
+			name = Release;
+		};
+		D6BA45C52CF5B95F0038B9EE /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = K6LJCT8RAA;
+				GENERATE_INFOPLIST_FILE = YES;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "com.template.Objectove-C-CompressionUITests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				TEST_TARGET_NAME = "Objectove-C-Compression";
+			};
+			name = Debug;
+		};
+		D6BA45C62CF5B95F0038B9EE /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = K6LJCT8RAA;
+				GENERATE_INFOPLIST_FILE = YES;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "com.template.Objectove-C-CompressionUITests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				TEST_TARGET_NAME = "Objectove-C-Compression";
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		D6BA45902CF5B95D0038B9EE /* Build configuration list for PBXProject "Objectove-C-Compression" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				D6BA45BC2CF5B95F0038B9EE /* Debug */,
+				D6BA45BD2CF5B95F0038B9EE /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		D6BA45BE2CF5B95F0038B9EE /* Build configuration list for PBXNativeTarget "Objectove-C-Compression" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				D6BA45BF2CF5B95F0038B9EE /* Debug */,
+				D6BA45C02CF5B95F0038B9EE /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		D6BA45C12CF5B95F0038B9EE /* Build configuration list for PBXNativeTarget "Objectove-C-CompressionTests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				D6BA45C22CF5B95F0038B9EE /* Debug */,
+				D6BA45C32CF5B95F0038B9EE /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		D6BA45C42CF5B95F0038B9EE /* Build configuration list for PBXNativeTarget "Objectove-C-CompressionUITests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				D6BA45C52CF5B95F0038B9EE /* Debug */,
+				D6BA45C62CF5B95F0038B9EE /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = D6BA458D2CF5B95D0038B9EE /* Project object */;
+}
